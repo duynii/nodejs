@@ -1,0 +1,6 @@
+GET /static/About_HealthInsite HTTP/1.1
+From: learning_REST@deweynguyen.com
+Host: www.healthinsite.gov.au
+User-Agent: HTTPTool/1.0
+
+

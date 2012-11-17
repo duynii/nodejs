@@ -1,0 +1,6 @@
+GET /wines HTTP/1.0
+From: learning_REST@deweynguyen.com
+Host: localhost
+User-Agent: HTTPTool/1.0
+
+

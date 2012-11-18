@@ -1,0 +1,12 @@
+user.name=duynii
+user.email=duynii@gmail.com
+core.editor=vim
+merge.tool=vimdiff
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/duynii/nodejs
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+remote.heroku.url=http://salty-harbor-8754.herokuapp.com/
+remote.heroku.fetch=+refs/heads/*:refs/remotes/heroku/*
